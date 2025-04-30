@@ -1,0 +1,19 @@
+
+{
+  "name": "Naruto Animated Xbox One",
+  "controller": "xboxone",
+  "images": {
+    "a": "a.png",
+    "b": "b.png",
+    "x": "x.png",
+    "y": "y.png",
+    "lt": "lt.gif",
+    "rt": "rt.gif",
+    "stick_left": "stick_left.gif",
+    "stick_right": "stick_right.gif",
+    "dpad": "dpad.png",
+    "back": "back.png",
+    "start": "start.png"
+  },
+  "animated": true
+}
